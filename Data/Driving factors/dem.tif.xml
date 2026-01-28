@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20231108</CreaDate><CreaTime>11053600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\FuzzyMembership" Date="20231108" Time="110536">FuzzyMembership dem2.tif D:\ARCGIS数据\flus2\驱动因子\整\dem.tif "LINEAR -80 1908" NONE</Process></lineage></DataProperties></Esri></metadata>

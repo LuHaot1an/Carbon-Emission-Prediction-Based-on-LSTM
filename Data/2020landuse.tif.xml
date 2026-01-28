@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20231107</CreaDate><CreaTime>22570300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20231107" Time="225703">RasterCalculator Con(IsNull("2020长三角landuse_500m无nodata.tif"),4,"2020长三角landuse_500m无nodata.tif") D:\ARCGIS数据\flus2\landuse\15和20landuse\整块\2020长三角landuse_500m无nodata4.tif</Process></lineage></DataProperties></Esri></metadata>

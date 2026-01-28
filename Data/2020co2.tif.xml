@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20231115</CreaDate><CreaTime>19434900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20231115" Time="194349">RasterCalculator Con(IsNull("2020co2.tif"),0,"2020co2.tif") C:\Users\LHT\Desktop\数据集\2020\2020co2.tif</Process></lineage></DataProperties></Esri></metadata>

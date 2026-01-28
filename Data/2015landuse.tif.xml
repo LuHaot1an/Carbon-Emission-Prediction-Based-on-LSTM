@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20231107</CreaDate><CreaTime>22535200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20231107" Time="225352">ExtractByMask 2015长三角landuse_500m无nodata3.tif 行政区划 D:\ARCGIS数据\flus2\landuse\15和20landuse\整块\2015长三角landuse_500m无nodata4.tif</Process></lineage></DataProperties></Esri></metadata>
